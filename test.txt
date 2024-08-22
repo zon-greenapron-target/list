@@ -4,6 +4,8 @@
 books.aardvark-corp.example
 !login.books.aardvark-corp.example
 
+// begin Badger Corp
+
 // Badger Technologies
 // Submitted by: Big Badger <big.badger@badger-tech.example>
 
@@ -22,6 +24,8 @@ view.na-2.badger-tech.example
 fsrv.sa-1.badger-tech.example
 view.sa-1.badger-tech.example
 *.badger.example
+
+// end Badger Corp
 
 // Coyote Partners
 // Submitted by: William Coyote <william@team-coyote.example>
