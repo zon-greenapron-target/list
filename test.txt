@@ -6,6 +6,8 @@ books.aardvark-corp.example
 
 // begin Badger Corp
 
+
+
 // Badger Technologies
 // Submitted by: Big Badger <big.badger@badger-tech.example>
 // Reference: _FT5XXWAXJXWWUQBAVOV43O3ZVE
@@ -25,7 +27,11 @@ fsrv.sa-1.badger-tech.example
 view.sa-1.badger-tech.example
 *.badger.example
 
-// end Badger Corp
+// Coyote CoolThing
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _JTX2VUX2XNUADKYPOL3SGZBJFE
+
+cool-thing.coyote.example// end Badger Corp
 
 // Coyote Partners
 // Submitted by: William Coyote <william@team-coyote.example>
