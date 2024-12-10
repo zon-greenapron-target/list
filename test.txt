@@ -6,14 +6,15 @@ books.aardvark-corp.example
 
 // begin Badger Corp
 
-*.badger.example
+// Badger Technologies
+// Submitted by: Big Badger <big.badger@badger-tech.example>
+// Reference: _FT5XXWAXJXWWUQBAVOV43O3ZVE
 fsrv.af-1.badger-tech.example
 view.af-1.badger-tech.example
-fsrv.af-2.badger-tech.example
 fsrv.as-1.badger-tech.example
+view.as-1.badger-tech.example
 fsrv.as-2.badger-tech.example
 view.as-2.badger-tech.example
-auth.badger-tech.example
 fsrv.eu-1.badger-tech.example
 view.eu-1.badger-tech.example
 fsrv.na-1.badger-tech.example
@@ -21,22 +22,8 @@ view.na-1.badger-tech.example
 fsrv.na-2.badger-tech.example
 view.na-2.badger-tech.example
 fsrv.sa-1.badger-tech.example
-
-// Badger Tech
-// Submitted by: AWS Security <psl-maintainers@amazon.com>
-// Reference: _GSO4YGCSRP4JR7XVY3FEU2F2GY
-
-// Coyote CoolThing
-// Submitted by: AWS Security <psl-maintainers@amazon.com>
-// Reference: _PIRQAUUHMENGRXBQAUUBSIWLWQ
-
-// Coyote Wizard
-// Submitted by: AWS Security <psl-maintainers@amazon.com>
-// Reference: _ETCPU7MISSIUSF2VLWSHZE6U3M
-
-
-
-cool-thing.coyote.example
+view.sa-1.badger-tech.example
+*.badger.example
 
 // end Badger Corp
 
