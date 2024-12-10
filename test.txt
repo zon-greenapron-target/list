@@ -6,10 +6,6 @@ books.aardvark-corp.example
 
 // begin Badger Corp
 
-// Badger Tech
-// Submitted by: AWS Security <psl-maintainers@amazon.com>
-// Reference: _GSO4YGCSRP4JR7XVY3FEU2F2GY
-
 *.badger.example
 fsrv.af-1.badger-tech.example
 view.af-1.badger-tech.example
@@ -26,9 +22,19 @@ fsrv.na-2.badger-tech.example
 view.na-2.badger-tech.example
 fsrv.sa-1.badger-tech.example
 
+// Badger Tech
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _GSO4YGCSRP4JR7XVY3FEU2F2GY
+
 // Coyote CoolThing
 // Submitted by: AWS Security <psl-maintainers@amazon.com>
 // Reference: _PIRQAUUHMENGRXBQAUUBSIWLWQ
+
+// Coyote Wizard
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _ETCPU7MISSIUSF2VLWSHZE6U3M
+
+
 
 cool-thing.coyote.example
 
