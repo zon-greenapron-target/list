@@ -27,7 +27,9 @@ view.sa-1.badger-tech.example
 
 // Coyote Cactus
 // Submitted by: AWS Security <psl-maintainers@amazon.com>
-// Reference: _SOMMGPGAM7QRMQFFBJTFZMXYBQ
+// Reference: _APAZ3572YTQGGQM7LBGWPBIG34
+
+baz.cactus.coyote.example
 
 bar.cactus.coyote.example
 
