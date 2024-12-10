@@ -24,6 +24,11 @@ fsrv.sa-1.badger-tech.example
 view.sa-1.badger-tech.example
 *.badger.example
 
+// Coyote Buzzer
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _22KKGJCWIVPPFG5LPDRVDMQRRY
+foo.buzz.coyote.example
+
 // Coyote Cactus
 // Submitted by: AWS Security <psl-maintainers@amazon.com>
 // Reference: _OWMLWCAV4ZWGGSFV5GHMUGDLO4
