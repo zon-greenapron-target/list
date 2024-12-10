@@ -1,6 +1,5 @@
 // Aardvark Corp, LLC
 // Submitted by: Aardvark Security <security@aardvark-corp.example>
-
 books.aardvark-corp.example
 !login.books.aardvark-corp.example
 
@@ -25,18 +24,9 @@ fsrv.sa-1.badger-tech.example
 view.sa-1.badger-tech.example
 *.badger.example
 
-// Coyote Cactus
-// Submitted by: AWS Security <psl-maintainers@amazon.com>
-// Reference: _75IR52MHI3GNQVB2ACAPLUJSCI
-
-bar.cactus.coyote.example
-
-foo.cactus.coyote.example
-
 // end Badger Corp
 
 // Coyote Partners
 // Submitted by: William Coyote <william@team-coyote.example>
-
 clients.team-coyote.example
 mail.team-coyote.example
