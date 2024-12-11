@@ -31,11 +31,11 @@ foo.buzz.coyote.example
 
 // Coyote Cactus
 // Submitted by: AWS Security <psl-maintainers@amazon.com>
-// Reference: _SCJZAY4UHXI655GLTB3UT5FVEA
+// Reference: _RLKQNLKBD5WXTHNON7B5LH4DQA
+bang.cactus.coyote.example
 bar.cactus.coyote.example
 baz.cactus.coyote.example
 foo.cactus.coyote.example
-zoink.cactus.coyote.example
 
 // end Badger Corp
 
