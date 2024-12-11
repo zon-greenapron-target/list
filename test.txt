@@ -33,6 +33,7 @@ foo.buzz.coyote.example
 // Submitted by: AWS Security <psl-maintainers@amazon.com>
 // Reference: _SCJZAY4UHXI655GLTB3UT5FVEA
 bar.cactus.coyote.example
+baz.cactus.coyote.example
 foo.cactus.coyote.example
 zoink.cactus.coyote.example
 
