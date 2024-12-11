@@ -37,6 +37,12 @@ bar.cactus.coyote.example
 baz.cactus.coyote.example
 foo.cactus.coyote.example
 
+// Coyote Wizard
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _E2V27ZUET2E2UI624SFKLJFNGQ
+things.us-east-1.psl-example.iwillamz.people.amazon.dev
+things.us-west-2.psl-example.iwillamz.people.amazon.dev
+
 // end Badger Corp
 
 // Coyote Partners
