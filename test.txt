@@ -1,6 +1,13 @@
+// Aardvark Corp, LLC
+// Submitted by: Aardvark Security <security@aardvark-corp.example>
+books.aardvark-corp.example
+!login.books.aardvark-corp.example
+
+// begin Badger Corp
+
 // Badger Technologies
 // Submitted by: Big Badger <big.badger@badger-tech.example>
-
+// Reference: _FT5XXWAXJXWWUQBAVOV43O3ZVE
 fsrv.af-1.badger-tech.example
 view.af-1.badger-tech.example
 fsrv.as-1.badger-tech.example
@@ -16,3 +23,29 @@ view.na-2.badger-tech.example
 fsrv.sa-1.badger-tech.example
 view.sa-1.badger-tech.example
 *.badger.example
+
+// Coyote Buzzer
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _22KKGJCWIVPPFG5LPDRVDMQRRY
+foo.buzz.coyote.example
+
+// Coyote Cactus
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _RLKQNLKBD5WXTHNON7B5LH4DQA
+bang.cactus.coyote.example
+bar.cactus.coyote.example
+baz.cactus.coyote.example
+foo.cactus.coyote.example
+
+// Coyote Wizard
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _E2V27ZUET2E2UI624SFKLJFNGQ
+things.us-east-1.psl-example.iwillamz.people.amazon.dev
+things.us-west-2.psl-example.iwillamz.people.amazon.dev
+
+// end Badger Corp
+
+// Coyote Partners
+// Submitted by: William Coyote <william@team-coyote.example>
+clients.team-coyote.example
+mail.team-coyote.example
