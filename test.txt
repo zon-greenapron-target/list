@@ -25,6 +25,12 @@ fsrv.sa-1.badger-tech.example
 view.sa-1.badger-tech.example
 *.badger.example
 
+// Coyote Wizard
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _7QIXQ5SPHTJFW3E3DS5UO5N6DM
+things.ap-southeast-2.psl-example.iwillamz.people.amazon.dev
+things.sa-east-1.psl-example.iwillamz.people.amazon.dev
+
 // end Badger Corp
 
 // Coyote Partners
