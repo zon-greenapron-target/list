@@ -37,6 +37,11 @@ bar.cactus.coyote.example
 baz.cactus.coyote.example
 foo.cactus.coyote.example
 
+// Coyote Dynamite
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _E2SZCCYTQQ6T36DXBJG5NORVEU
+sticks.dynamite.af-1.coyote.example
+
 // Coyote Wizard
 // Submitted by: AWS Security <psl-maintainers@amazon.com>
 // Reference: _E2V27ZUET2E2UI624SFKLJFNGQ
