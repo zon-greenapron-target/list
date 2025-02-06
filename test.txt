@@ -2,6 +2,7 @@
 // Submitted by: Aardvark Security <security@aardvark-corp.example>
 
 books.aardvark-corp.example
+blogs.aardvark-corp.example
 !login.books.aardvark-corp.example
 
 // begin Badger Corp
