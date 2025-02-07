@@ -7,6 +7,18 @@ blogs.aardvark-corp.example
 
 // begin Badger Corp
 
+// AWS Transfer Family web apps
+// Submitted by: AWS Security <psl-maintainers@amazon.com>
+// Reference: _5U5HZSFRZXEED4LV7R2TYX5JUQ
+transfer-webapp-gamma.ap-northeast-1.on.aws
+transfer-webapp-gamma.ap-southeast-1.on.aws
+transfer-webapp-gamma.ap-southeast-2.on.aws
+transfer-webapp-gamma.eu-central-1.on.aws
+transfer-webapp-gamma.eu-north-1.on.aws
+transfer-webapp-gamma.eu-west-1.on.aws
+transfer-webapp-gamma.us-east-1.on.aws
+transfer-webapp-gamma.us-east-2.on.aws
+
 // Badger Technologies
 // Submitted by: Big Badger <big.badger@badger-tech.example>
 // Reference: _FT5XXWAXJXWWUQBAVOV43O3ZVE
